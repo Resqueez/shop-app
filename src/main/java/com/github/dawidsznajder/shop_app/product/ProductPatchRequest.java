@@ -1,4 +1,4 @@
-package com.github.Resqueez.shop_app.product;
+package com.github.dawidsznajder.shop_app.product;
 
 import java.util.Optional;
 

@@ -1,4 +1,4 @@
-package com.github.Resqueez.shop_app.common;
+package com.github.dawidsznajder.shop_app.common;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

@@ -1,4 +1,4 @@
-package com.github.Resqueez.shop_app.cart.dto;
+package com.github.dawidsznajder.shop_app.cart.dto;
 
 public class AddToCartRequest {
     private Long userId;

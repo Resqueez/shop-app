@@ -1,4 +1,4 @@
-package com.github.Resqueez.shop_app.product;
+package com.github.dawidsznajder.shop_app.product;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

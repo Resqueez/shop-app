@@ -1,6 +1,6 @@
-package com.github.Resqueez.shop_app.cart;
+package com.github.dawidsznajder.shop_app.cart;
 
-import com.github.Resqueez.shop_app.product.Product;
+import com.github.dawidsznajder.shop_app.product.Product;
 import jakarta.persistence.*;
 
 @Entity

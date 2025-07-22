@@ -1,4 +1,4 @@
-package com.github.Resqueez.shop_app.user;
+package com.github.dawidsznajder.shop_app.user;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

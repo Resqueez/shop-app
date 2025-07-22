@@ -1,12 +1,10 @@
-package com.github.Resqueez.shop_app.cart;
+package com.github.dawidsznajder.shop_app.cart;
 
-import com.github.Resqueez.shop_app.product.Product;
-import com.github.Resqueez.shop_app.product.ProductRepository;
-import com.github.Resqueez.shop_app.user.AppUser;
-import com.github.Resqueez.shop_app.user.AppUserRepository;
+import com.github.dawidsznajder.shop_app.product.Product;
+import com.github.dawidsznajder.shop_app.product.ProductRepository;
+import com.github.dawidsznajder.shop_app.user.AppUser;
+import com.github.dawidsznajder.shop_app.user.AppUserRepository;
 import org.springframework.stereotype.Service;
-
-import java.util.Optional;
 
 @Service
 public class CartService {

@@ -1,10 +1,8 @@
-package com.github.Resqueez.shop_app.cart;
+package com.github.dawidsznajder.shop_app.cart;
 
-import com.github.Resqueez.shop_app.cart.dto.AddToCartRequest;
+import com.github.dawidsznajder.shop_app.cart.dto.AddToCartRequest;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-
-import java.util.Optional;
 
 @RestController
 @RequestMapping("/api/cart")

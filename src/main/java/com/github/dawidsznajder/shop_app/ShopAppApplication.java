@@ -1,4 +1,4 @@
-package com.github.Resqueez.shop_app;
+package com.github.dawidsznajder.shop_app;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

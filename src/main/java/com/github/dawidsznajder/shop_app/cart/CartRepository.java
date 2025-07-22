@@ -1,6 +1,6 @@
-package com.github.Resqueez.shop_app.cart;
+package com.github.dawidsznajder.shop_app.cart;
 
-import com.github.Resqueez.shop_app.user.AppUser;
+import com.github.dawidsznajder.shop_app.user.AppUser;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;

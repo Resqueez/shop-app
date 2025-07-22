@@ -1,6 +1,6 @@
-package com.github.Resqueez.shop_app.cart;
+package com.github.dawidsznajder.shop_app.cart;
 
-import com.github.Resqueez.shop_app.user.AppUser;
+import com.github.dawidsznajder.shop_app.user.AppUser;
 import jakarta.persistence.*;
 import java.util.ArrayList;
 import java.util.List;
