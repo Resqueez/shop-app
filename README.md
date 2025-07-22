@@ -18,7 +18,7 @@ Prosta aplikacja backendowa sklepu internetowego napisana w Spring Boot z wykorz
 ## 🚀 Jak uruchomić
 
 1. Upewnij się, że masz Dockera i Java 17
-2. Odpal bazę danych z Dockera (np. `postgres:16`)
+2. Uruchom bazę danych z Dockera (np. `postgres:16`)
 3. Uruchom aplikację z poziomu IDE lub `./mvnw spring-boot:run`
 4. Użyj Postmana, żeby testować endpointy (`localhost:8080`)
 
